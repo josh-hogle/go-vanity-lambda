@@ -1,4 +1,4 @@
-# Go Vanity Server
+# Go Vanity Server for AWS Lambda
 
 This tool consists of a Lambda function, an API Gateway and a DynamoDB table which work together to serve as a vanity URL server for Golang projects.
 
